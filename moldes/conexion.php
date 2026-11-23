@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = "25072005"; // Coloca tu contraseña de MySQL de AppServ si la cambiaste
+$pass = ""; // Coloca tu contraseña de MySQL de AppServ si la cambiaste
 $db   = "moldesgo";
 
 try {
